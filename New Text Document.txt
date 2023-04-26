@@ -1,0 +1,3 @@
+Host: waws-prod-dm1-087.ftp.azurewebsites.windows.net/site/wwwroot
+Username: tta-connection\$tta-connection
+Password: HcK7aSMLSXeuTc5A3SyAATvolYxFxsjwtQnzw7pvziwiDEvXXJjKWMNFs5qM

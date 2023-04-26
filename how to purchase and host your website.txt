@@ -1,0 +1,11 @@
+In order to place the website online at a URL of your choosing, you will need to purchase two things:
+
+A domain name (for example: yourname.com). This costs a yearly fee.
+
+Hosting (a service where you “rent” servers from a company to store and serve up your files). This can be purchased on a monthly or annual subscription.
+
+We will be using the web hosting and domain company called GoDaddy.
+
+The cost to purchase hosting and a domain name for a year can cost around $100.
+
+The other option (which is free) is using GitHub to store your website. If you use GitHub to host your site, the URL will be https://username.github.io, not a domain name of your choosing.
